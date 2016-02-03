@@ -1,0 +1,93 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @Absolutestunna
+ Unwatch 1
+  Star 0
+  Fork 0 Absolutestunna/IY-1.2-octocats
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
+Branch: gh-pages Find file Copy pathIY-1.2-octocats/styles.css
+1fd803c  13 hours ago
+ Home octocat homework
+0 contributors
+RawBlameHistory     76 lines (68 sloc)  962 Bytes
+.octodex {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.octocat {
+  max-width: 390px;
+  max-height: 320px;
+  float: left;
+  margin: 40px 10px 40px 0;
+}
+
+.octocat img {
+  max-width: 100%;
+}
+span {
+  margin-top: 0;
+}
+.octocat > a {
+  display: block;
+  border: 1.8px solid gray;
+  border-radius: 5px;
+  /*margin-bottom: 8px;*/
+}
+
+.arrow-down {
+  /*Down pointing*/
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 15px 10px 0 10px;
+  border-color: gray transparent transparent transparent;
+}
+#first {
+  float: right;
+}
+#second {
+  float: right;
+  margin: 0;
+}
+#third {
+  float: right;
+}
+.authors {
+  display: inline-block;
+  padding: 0;
+  float: right;
+}
+
+.authors img {
+  width: 25px;
+  height: 25px;
+  margin-left: 3px;
+}
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+.image-number {
+  float: left;
+
+}
+.image-caption {
+  float: right;
+  display: inline;
+}
+.image-caption a {
+  font-weight: bold;
+  color: black;
+  margin-bottom: 40px;
+}
+Status API Training Shop Blog About Pricing
+© 2016 GitHub, Inc. Terms Privacy Security Contact Help
